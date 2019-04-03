@@ -1,0 +1,36 @@
+[
+    {
+        "name": "congress",
+        "data": [
+            {
+                "manifesto": "kaam",
+                "img": "https://pbs.twimg.com/profile_images/974851878860312582/O-Zn2b72_400x400.jpg"
+            },
+            {
+                "manifesto": "dham",
+                "img": "https://pbs.twimg.com/profile_images/974851878860312582/O-Zn2b72_400x400.jpg"
+            },
+            {
+                "manifesto": "shan",
+                "img": "https://pbs.twimg.com/profile_images/974851878860312582/O-Zn2b72_400x400.jpg"
+            }
+        ]
+    },
+    {
+        "name": "bjp",
+        "data": [
+            {
+                "manifesto": "kaam",
+                "img": "https://pbs.twimg.com/profile_images/974851878860312582/O-Zn2b72_400x400.jpg"
+            },
+            {
+                "manifesto": "dham",
+                "img": "https://pbs.twimg.com/profile_images/974851878860312582/O-Zn2b72_400x400.jpg"
+            },
+            {
+                "manifesto": "shan",
+                "img": "https://pbs.twimg.com/profile_images/974851878860312582/O-Zn2b72_400x400.jpg"
+            }
+        ]
+    }
+]
